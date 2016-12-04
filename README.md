@@ -6,6 +6,9 @@ Python essentials and tags has been included in this project.
 basic stuuf in the source codes are:
 
 import os
+
 import random
+
 import system
+
 from environment import Environment
